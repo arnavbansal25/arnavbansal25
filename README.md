@@ -53,11 +53,10 @@ Enthusiastic learner exploring new and efficient ways to develop user-centered d
 
 <h3 align="left">Top Repositories</h3>
 
-  <a href="https://github.com/arnavbansal25/mood-music" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arnavbansal25&repo=mood-music&title_color=6366f1&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://github.com/arnavbansal25/mood-music" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arnavbansal25&repo=mood-music&title_color=6366f1&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a>
 
-  <a href="https://github.com/arnavbansal25/Private" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arnavbansal25&repo=Private&title_color=6366f1&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://github.com/arnavbansal25/Private" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arnavbansal25&repo=Private&title_color=6366f1&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a> 
 
-
 <br />
 <br />
 <br />
@@ -66,7 +65,7 @@ Enthusiastic learner exploring new and efficient ways to develop user-centered d
 <br />
 <br />
 
-<a href="https://github.com/arnavbansal25/distributed-hyperparameter-tuning" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arnavbansal25&repo=distributed-hyperparameter-tuning&title_color=6366f1&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://github.com/arnavbansal25/distributed-hyperparameter-tuning" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arnavbansal25&repo=distributed-hyperparameter-tuning&title_color=6366f1&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a>
 
 <a href="https://github.com/arnavbansal25/tache--task-manager" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arnavbansal25&repo=tache--task-manager&title_color=6366f1&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a>
 
