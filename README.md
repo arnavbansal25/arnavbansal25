@@ -7,7 +7,7 @@ React Developer | Software Engineer
 Enthusiastic learner exploring new and efficient ways to develop user-centered design applications.
 
 *   🌍  I'm based in Jaipur
-*   ✉️  You can contact me at [arnavbansal.8232@gmail.com](mailto:arnavbansal.8232@gmail.com)
+*   ✉️  You can contact me at [arnav.bansal.mail@gmail.com](mailto:arnav.bansal.main@gmail.com)
 *   ⚡  I love Math, Programming and Development
 
 <h3 align="left">Languages and Tools:</h3>
