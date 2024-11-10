@@ -4,7 +4,7 @@ Hi 👋 My name is Arnav Bansal
 React Developer | Software Engineer
 ----------------------------------
 
-Enthusiastic learner exploring new and efficient ways to develop user-centered design applications.
+Building the web, Front to Back.
 
 *   🌍  I'm based in Jaipur
 *   ✉️  You can contact me at [arnav.bansal.mail@gmail.com](mailto:arnav.bansal.main@gmail.com)
