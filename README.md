@@ -1,7 +1,7 @@
 Hi 👋 My name is Arnav Bansal
 ==============================
 
-React Developer | Software Engineer
+JavaScript Developer | Software Engineer
 ----------------------------------
 
 Building the web, Front to Back.
